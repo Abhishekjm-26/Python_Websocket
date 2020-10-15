@@ -5,5 +5,5 @@ This was the project that I have done while going through my first paid Internsh
 The things that I have gone through while going through the internship are: 
 -> Streaming Protocols.
 -> Using Gstreamer.
--> Web Socket Programming Using Python.
+-> Web Socket Programming Using Python & HTML.
 It was a best experince going through the concepts & exploring idealogies & aesthetics of the company.
